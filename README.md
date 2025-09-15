@@ -1,3 +1,5 @@
-# payme
-peer 2 peer payment processing app
-an ai agent that helps users collect/accept money and payments. payme allows a user to set up a social page explaining what they do and accept payments. i.e. uber drivers, airbnb owners, barbers, music artist, food truck vendors etc. direct bookings/payments for everyone. Also payme will allow a user to post a person that owes a money debt, and other users/customers can guess how much they owe you. the number owed never gets revealed but the container will light up red or green based off if you guess the debt owed correct or not. payme will also include a leader board 1 thru infinity based off the amount of debt owed and time since the start date of lending debt occured. The payme agent will also act as a collections agent , it will reach out to the debtor on belhalf of the lender via email and phone call/text via information the the lender has provided the agent. gamify the agent/app
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.
